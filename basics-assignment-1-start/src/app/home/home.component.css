@@ -1,0 +1,18 @@
+.home-container {
+  border: 2px solid green;
+  padding: 5px;
+}
+
+.main {
+  display: flex;
+}
+
+.main .main-content {
+  width: 80%;
+  background: purple;
+}
+
+.main .sidebar {
+  width: 20%;
+  background: yellow;
+}
